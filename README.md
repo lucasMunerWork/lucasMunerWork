@@ -12,6 +12,7 @@ Meu nome é Lucas Muner, desenvolvedor e amante de tecnologia, amo solucionar pr
 - Linguagens: PHP / JavaScript / Dart / Python / Java
 - Frameworks: Laravel / Flutter / Django / Spring Boot
 - Ferramentas: Git / Docker / SQL Server / Firebase
+![Language](https://img.shields.io/badge/language-JavaScript-yellow)
 
 ## 📫 Contato
 - Email: lucas.muner0622@gmail.com
