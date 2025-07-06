@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá, seja bem-vindo(a)!
 
-<!--
-**lucasMunerWork/lucasMunerWork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Lucas Muner, desenvolvedor e amante de tecnologia, amo solucionar problemas e criar coisas novas.
 
-Here are some ideas to get you started:
+## 💼 Sobre este perfil
+- 👨‍💻 Aqui você encontra meus projetos **profissionais**.
+- 🔎 Interesse especial em back-end e mobile.
+- 📚 Apaixonado por aprender, sempre procurando aprimorar meus conhecimentos.
+- 🤝 Aberto a colaborações e networking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Habilidades
+- Linguagens: PHP / JavaScript / Dart / Python / Java
+- Frameworks: Laravel / Flutter / Django / Spring Boot
+- Ferramentas: Git / Docker / SQL Server / Firebase
+
+## 📫 Contato
+- Email: lucas.muner0622@gmail.com
+- LinkedIn: [www.linkedin.com/in/lucasmuner](www.linkedin.com/in/lucasmuner)
