@@ -29,3 +29,4 @@ Meu nome é Lucas Muner, desenvolvedor e amante de tecnologia, amo solucionar pr
 ## 📫 Contato
 - Email: lucas.muner0622@gmail.com
 - LinkedIn: [www.linkedin.com/in/lucasmuner](www.linkedin.com/in/lucasmuner)
+- Celular: (18) 98800-8433
