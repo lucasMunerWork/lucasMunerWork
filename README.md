@@ -4,7 +4,7 @@ Meu nome é Lucas Muner, desenvolvedor e amante de tecnologia, amo solucionar pr
 
 ## 💼 Sobre este perfil
 - 👨‍💻 Aqui você encontra meus projetos **profissionais**.
-- 🔎 Interesse especial em back-end e mobile.
+- 🔎 Interesse especial em desenvolvimento web.
 - 📚 Apaixonado por aprender, sempre procurando aprimorar meus conhecimentos.
 - 🤝 Aberto a colaborações e networking.
 
