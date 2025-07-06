@@ -9,10 +9,22 @@ Meu nome é Lucas Muner, desenvolvedor e amante de tecnologia, amo solucionar pr
 - 🤝 Aberto a colaborações e networking.
 
 ## 🚀 Habilidades
-- Linguagens: PHP / JavaScript / Dart / Python / Java
-- Frameworks: Laravel / Flutter / Django / Spring Boot
-- Ferramentas: Git / Docker / SQL Server / Firebase
-![Language](https://img.shields.io/badge/language-JavaScript-yellow)
+- Linguagens:
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+- Frameworks:
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+- Ferramentas:
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 
 ## 📫 Contato
 - Email: lucas.muner0622@gmail.com
